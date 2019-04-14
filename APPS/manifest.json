@@ -1,0 +1,13 @@
+{
+  "name": "DuplicateApps",
+  "short_name": "DuplicateApps",
+  "start_url": "https://runbb.github.io/nsb/index.html",
+  "display": "standalone",
+  "icons": [{
+    "src": "assets/icon/IPADownloader.png",
+    "sizes": "250x250",
+    "type": "image/png"
+  }],
+  "background_color": "#14ff4c",
+  "theme_color": "#14ff4c"
+}
