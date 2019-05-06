@@ -1,2 +1,2 @@
-# hmdAPPS.github.io
+# hmdapps.github.io
 GitHub Pages
